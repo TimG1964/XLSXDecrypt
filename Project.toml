@@ -1,0 +1,5 @@
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+SHA = "ea8e919c-243c-51af-8825-aaa63cd721ce"
+XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
+XLSXDecrypt = "e3fae58b-f948-45ca-982d-29fa61c37f2f"
